@@ -1,2 +1,3 @@
 # Field-hockey-corner-data
-[This visualization is showing the top field hockey teams in NCAA Divsion 3 with the most corners and corners scored on](PDP_corners.xlsx) 
+![Bar chart of NCAA Division 3 field hockey corners](corner_chart.png) 
+[view the dataset and excel workbook](PDP_corners.xlsx) 
